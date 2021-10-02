@@ -1,0 +1,13 @@
+/Users/yannraymond58/Projects/tp3/tp3/bin/Debug/netcoreapp3.1/tp3.deps.json
+/Users/yannraymond58/Projects/tp3/tp3/bin/Debug/netcoreapp3.1/tp3.runtimeconfig.json
+/Users/yannraymond58/Projects/tp3/tp3/bin/Debug/netcoreapp3.1/tp3.runtimeconfig.dev.json
+/Users/yannraymond58/Projects/tp3/tp3/bin/Debug/netcoreapp3.1/tp3.dll
+/Users/yannraymond58/Projects/tp3/tp3/bin/Debug/netcoreapp3.1/tp3.pdb
+/Users/yannraymond58/Projects/tp3/tp3/obj/Debug/netcoreapp3.1/tp3.csproj.AssemblyReference.cache
+/Users/yannraymond58/Projects/tp3/tp3/obj/Debug/netcoreapp3.1/tp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yannraymond58/Projects/tp3/tp3/obj/Debug/netcoreapp3.1/tp3.AssemblyInfoInputs.cache
+/Users/yannraymond58/Projects/tp3/tp3/obj/Debug/netcoreapp3.1/tp3.AssemblyInfo.cs
+/Users/yannraymond58/Projects/tp3/tp3/obj/Debug/netcoreapp3.1/tp3.csproj.CoreCompileInputs.cache
+/Users/yannraymond58/Projects/tp3/tp3/obj/Debug/netcoreapp3.1/tp3.dll
+/Users/yannraymond58/Projects/tp3/tp3/obj/Debug/netcoreapp3.1/tp3.pdb
+/Users/yannraymond58/Projects/tp3/tp3/obj/Debug/netcoreapp3.1/tp3.genruntimeconfig.cache
